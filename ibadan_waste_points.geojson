@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-09-04T09:01:04Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3084908546",
+        "amenity": "waste_disposal",
+        "name": "Dump SIte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9174782,
+          7.3575833
+        ]
+      },
+      "id": "node/3084908546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3085022206",
+        "amenity": "waste_disposal",
+        "name": "Dump SIte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8987248,
+          7.3741011
+        ]
+      },
+      "id": "node/3085022206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3085022731",
+        "amenity": "waste_disposal",
+        "name": "Dump Site, Ita Baale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9014602,
+          7.376455
+        ]
+      },
+      "id": "node/3085022731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3085031011",
+        "amenity": "waste_disposal",
+        "name": "Dump SIte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9045652,
+          7.379274
+        ]
+      },
+      "id": "node/3085031011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3085031015",
+        "amenity": "waste_disposal",
+        "name": "Dump Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9062346,
+          7.3806842
+        ]
+      },
+      "id": "node/3085031015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3085040940",
+        "amenity": "waste_disposal",
+        "name": "Dump Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8976503,
+          7.3676899
+        ]
+      },
+      "id": "node/3085040940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3085043972",
+        "amenity": "waste_disposal",
+        "name": "Dump Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.902565,
+          7.3663593
+        ]
+      },
+      "id": "node/3085043972"
+    }
+  ]
+}
