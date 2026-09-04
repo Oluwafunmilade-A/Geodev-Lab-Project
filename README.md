@@ -1,2 +1,7 @@
-# Geodev-Lab-Project
-Which settled areas in Ibadan North LGA are farthest from mapped waste collection or waste disposal points?
+# My GeoDev Lab Africa project
+
+Which settled areas in Ibadan North LGA, Oyo State, are farthest from mapped waste collection or waste disposal points?
+
+Built over twelve months with GeoDev Lab Africa, Cohort One.
+
+See project-brief.md for the full brief.
