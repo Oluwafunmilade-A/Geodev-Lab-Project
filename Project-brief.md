@@ -1,7 +1,7 @@
 # My project brief
 
 ## The question
-Which settled areas in Ibadan North LGA, Oyo State, are farthest from mapped waste collection or waste disposal points?
+Which settled areas in Ibadan metropolis, Oyo State, are farthest from mapped waste collection or waste disposal points?
 
 ## The data I need
 - Waste collection/disposal points — OpenStreetMap — https://www.openstreetmap.org
